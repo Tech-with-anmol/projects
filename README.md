@@ -17,4 +17,7 @@ It was a really tough decision but I think it's the best for all of us
 [Muser's top.gg page](https://top.gg/bot/763418289689985035) | [Muser's Website](https://muser.pgamerx.com)
 
 ## :x: Errors
-**You might face a lot of errors regularly in the bot ! To find their fix you can join [Support Server](https://pgamerx.com/discord) and ask there**
+First make sure to check [Issues on github](https://github.com/PGamerXstudio/blacksheep/issues) , if your issue is not there then you can join our 
+[Support Server](https://pgamerx.com/discord) and ask there**
+
+
