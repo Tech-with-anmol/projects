@@ -48,5 +48,36 @@ In case you got a temporary fix to an issue but you know many others will face i
 * changemymind - Change your mind
 * Delete - Tired to write it
 * [More......](https://sheep.pgamerx.com/commands)
+### Moderation Commands
+* ban - bans a user
+* unban - unabans a user
+* lock - locks a channel
+* unlock - unlocks a channel
+* mute - Mutes a user
+* serverstats - Display stats about the server
+* channelinfo - Provides info about channel this command is run in
+* whois - Gives information about mentioned user
+* setpre - changes prefix for specific server
+* removedata - Remove stored data for specific server
+### Random Pic commands
+* horse - Random horse pic
+* cat - Random cat pic
+* dog - Random dog pic
+* bird - Random bird pic
+* duck - Random duck pic
+* vase - Random vase pic
+* food - Random food pic
+### Other Commands
+* servers - number of servers bot is in
+* ping - Tells the bot latency
+* patreon - Support by becoming a patreon
+* discord - Provides link to support server
+* ascii - Tells a text in ascii format
+* wobble - Try it yourself
+* clap - Try it yourself
+* covidall - Overall Covid-19 stats
+* covidadv - Advanced Covid-19 stats
+* covid(country) - Covid-19 Stats about specific country
+* weather(city name) - Weather stats about specififc city
 
 
