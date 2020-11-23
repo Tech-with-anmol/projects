@@ -17,7 +17,7 @@ It was a really tough decision but I think it's the best for all of us
 [Muser's top.gg page](https://top.gg/bot/763418289689985035) | [Muser's Website](https://muser.pgamerx.com)
 
 ## :x: Errors
-**1. Check First -**  Make sure to check [Issues on github](https://github.com/PGamerXstudio/blacksheep/issues) 
+**1. Check First -**  Make sure to check [Issues on github](https://github.com/PGamerXstudio/blacksheep/issues)      
 **2. Support Server -** if your issue is not there and you want urgent support then you can join our [Support Server](https://pgamerx.com/discord) and ask there
 
 
