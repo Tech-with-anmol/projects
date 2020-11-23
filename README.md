@@ -3,3 +3,4 @@
 <br />
 
 ## :gear: Setup Guide
+ **Step 1** - Adding the bot. You can add bot By Clicking this - [Click me](http://www.google.com){: .btn}
