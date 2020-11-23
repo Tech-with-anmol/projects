@@ -24,5 +24,6 @@ It was a really tough decision but I think it's the best for all of us
 In case you got a temporary fix to an issue but you know many others will face it then you can create a new issue on [Github Issues](https://github.com/PGamerXstudio/blacksheep/issues/new).     
 **Note : Github Issues will take time to be answered**
 
-
+## 📜 Commands list
+You can find Bot's command list [here](https://sheep.pgamerx.com)
 
