@@ -15,3 +15,6 @@ But ! We have developed a **brand new music only bot** with over **20+ filters**
 If you were using Black Sheep for music only , then it's important that you **replace it with Muser**
 It was a really tough decision but I think it's the best for all of us
 [Muser's top.gg page](https://top.gg/bot/763418289689985035) | [Muser's Website](https://muser.pgamerx.com)
+
+## :x: Errors
+**You might face a lot of errors regularly in the bot ! To find their fix you can join [Support Server](https://pgamerx.com/discord) and ask there**
