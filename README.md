@@ -3,4 +3,6 @@
 <br />
 
 ## :gear: Setup Guide
- **Step 1** - Adding the bot. You can add bot By Clicking this - [Click me](http://www.google.com){: .btn}
+ **Step 1** - Adding the bot. You can add bot By [Clicking Here]()
+ {% include button.html button_name="My Button" button_class="primary" %}
+
