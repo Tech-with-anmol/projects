@@ -20,4 +20,7 @@ It was a really tough decision but I think it's the best for all of us
 **1. Check First -**  Make sure to check [Issues on github](https://github.com/PGamerXstudio/blacksheep/issues)      
 **2. Support Server -** if your issue is not there and you want urgent support then you can join our [Support Server](https://pgamerx.com/discord) and ask there
 
+## Reporting New Issue
+In case you got a temporary fix to an issue but you know many others will face it then you can create a new issue on [Github Issues](https://github.com/PGamerXstudio/blacksheep/issues/new).     
+**Note : Github Issues will take time to be answered**
 
