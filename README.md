@@ -25,7 +25,6 @@ In case you got a temporary fix to an issue but you know many others will face i
 **Note : Github Issues will take time to be answered**
 
 ## 📜 Commands list
-<br />
 ### Fun Commmands
 * tf - Answers a question within True/false
 * playstore - Provides information about app which you ask from google playstore
@@ -35,7 +34,7 @@ In case you got a temporary fix to an issue but you know many others will face i
 * pokemon - information about a pokemon
 * meme - Random meme
 * insult - Random Insult
-[More......](https://sheep.pgamerx.com/commands)
+* [More......](https://sheep.pgamerx.com/commands)
 ### Image Manipulation
 * jail - Go into jail
 * bobross - Bobross will paint you
@@ -48,6 +47,6 @@ In case you got a temporary fix to an issue but you know many others will face i
 * triggered - Get yourself or your friend triggered
 * changemymind - Change your mind
 * Delete - Tired to write it
-[More......](https://sheep.pgamerx.com/commands)
+* [More......](https://sheep.pgamerx.com/commands)
 
 
