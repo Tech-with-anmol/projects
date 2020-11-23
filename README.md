@@ -3,6 +3,6 @@
 <br />
 
 ## :gear: Setup Guide
- **Step 1** - Adding the bot. You can add bot By [Clicking Here]()
- {% include button.html button_name="My Button" button_class="primary" %}
+ **Step 1** - Adding the bot -  You can add bot By [Clicking Here](https://discord.com/oauth2/authorize?client_id=716985864512864328&scope=bot&permissions=1580596551)
+ **Step 2** - Double Checking Permissions - 
 
