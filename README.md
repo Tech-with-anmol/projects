@@ -3,11 +3,11 @@
 <br />
 
 ## 🔗 Important Links
-**[1.Invite Bot](https://discord.com/oauth2/authorize?client_id=716985864512864328&scope=bot&permissions=1580596551)**.   
-**[2.Support Server](https://pgamerx.com)**.   
-**[3.Top.gg Page](https://top.gg/bot/716985864512864328)**.   
-**[4.Commands list](https://sheep.pgamerx.com/commands)**.   
-**[5.Website](https://sheep.pgamerx.com)**.  
+**[1. Invite Bot](https://discord.com/oauth2/authorize?client_id=716985864512864328&scope=bot&permissions=1580596551)**   
+**[2. Support Server](https://pgamerx.com)**   
+**[3. Top.gg Page](https://top.gg/bot/716985864512864328)**   
+**[4. Commands list](https://sheep.pgamerx.com/commands)**   
+**[5. Website](https://sheep.pgamerx.com)**  
 
 ## :gear: Setup Guide
  **1. Adding the bot -**  You can add bot By [Clicking Here](https://discord.com/oauth2/authorize?client_id=716985864512864328&scope=bot&permissions=1580596551)    
