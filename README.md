@@ -25,7 +25,6 @@ In case you got a temporary fix to an issue but you know many others will face i
 **Note : Github Issues will take time to be answered**
 
 ## 📜 Commands list
-You can find Bot's command list [here](https://sheep.pgamerx.com) or find it below
 <br />
 ### Fun Commmands
 * tf - Answers a question within True/false
@@ -36,18 +35,19 @@ You can find Bot's command list [here](https://sheep.pgamerx.com) or find it bel
 * pokemon - information about a pokemon
 * meme - Random meme
 * insult - Random Insult
-* lenny - (Í¡Â° ÍœÊ– Í¡Â°)
-* joke - A funny Dad Joke
-* cnjoke - Random cn joke
-* chuckjoke - Random Chuck joke
-* howgayme - Tells how much of a gay you are
-* embarrass - Let's keep it a suprise ;)
-* howgay - Gay-o-meter
-* news - Top 2 latest news
-* fortune - Random Fortune Cookie
-* say - Says whatever you say
-* coinflip - As it name says
-
+[More......](https://sheep.pgamerx.com/commands)
 ### Image Manipulation
+* jail - Go into jail
+* bobross - Bobross will paint you
+* beautiful - Beautiful
+* facepalm - You messed up
+* hitler - Oh no
+* deepfry - Deepfry yourself or someone smh
+* trash - Put yourself in trash
+* quote - Fake quote something
+* triggered - Get yourself or your friend triggered
+* changemymind - Change your mind
+* Delete - Tired to write it
+[More......](https://sheep.pgamerx.com/commands)
 
 
