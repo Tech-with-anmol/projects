@@ -25,5 +25,29 @@ In case you got a temporary fix to an issue but you know many others will face i
 **Note : Github Issues will take time to be answered**
 
 ## 📜 Commands list
-You can find Bot's command list [here](https://sheep.pgamerx.com)
+You can find Bot's command list [here](https://sheep.pgamerx.com) or find it below
+<br />
+### Fun Commmands
+#tf - Answers a question within True/false
+#playstore - Provides information about app which you ask from google playstore
+#fast - Gives a random word which have to be typed by someone within 10 seconds
+#slap - Slap a user
+#motivation - Motivational Quote
+#pokemon - information about a pokemon
+#meme - Random meme
+#insult - Random Insult
+#lenny - (Í¡Â° ÍœÊ– Í¡Â°)
+#joke - A funny Dad Joke
+#cnjoke - Random cn joke
+#chuckjoke - Random Chuck joke
+#howgayme - Tells how much of a gay you are
+#embarrass - Let's keep it a suprise ;)
+#howgay - Gay-o-meter
+#news - Top 2 latest news
+#fortune - Random Fortune Cookie
+#say - Says whatever you say
+#coinflip - As it name says
+
+### Image Manipulation
+
 
