@@ -46,9 +46,9 @@ In case you got a temporary fix to an issue but you know many others will face i
 ## &#8627; Supporters
 
 #### &#8627; Stargazers 
-[![People who starred](https://reporoster.com/stars/pgamerxstudio/blacksheep)](https://github.com/pgamerxstudio/blacksheep/stargazers)      
+[![People who starred](https://reporoster.com/stars/pgamerxstudio/projects)](https://github.com/pgamerxstudio/projects/stargazers)      
 #### &#8627; Forkers 
-[![People who Forked](https://reporoster.com/forks/pgamerxstudio/blacksheep)](https://github.com/pgamerxstudio/blacksheep/)     
+[![People who Forked](https://reporoster.com/forks/pgamerxstudio/projects)](https://github.com/pgamerxstudio/projects/)     
 #### &#8627; Donate.    
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U438GWF)   
 <br />     
