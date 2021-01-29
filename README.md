@@ -18,10 +18,6 @@
 <img src="https://img.shields.io/github/license/pgamerxstudio/projects?color=6e5494&logo=github&style=for-the-badge" alt="License">
 </a>
 
-## This is a wrapper
-This is a wrapper for an api which is made by [PGamerX](https://pgamerx.com) It has a lot of features            
-Endpoints are [written here](https://api.pgamerx.com/endpoints)
-
 ## Requirments
 * Nodejs Version 12.0.0 or above
 * developer/build tools
@@ -31,7 +27,7 @@ Endpoints are [written here](https://api.pgamerx.com/endpoints)
 npm install random-stuff-api
 ```
 ## Documentation
-All documentaion on [Here](https://pgamerx.bit.ai/docs/view/Rz3rb7748yS5qA0o)
+All documentation on [Here](https://pgamerx.bit.ai/docs/view/Rz3rb7748yS5qA0o)
 
 ## Support 
 [Discord server](https://pgamerx.com/discord)
