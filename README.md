@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/github/license/pgamerxstudio/projects?color=6e5494&logo=github&style=for-the-badge" alt="License">
 </a>
 
+## Disclaimer
+This is supposed to be a wrapper for [radom-stuff-api](https://api.pgamerx.com) but at the time of creating this there was no such api, instead, this was inspiration for the api! It has all the functions which random-stuff-api does but isn't a **DIRECT WRAPPER** for it
 ## Requirments
 * Nodejs Version 12.0.0 or above
 * developer/build tools
