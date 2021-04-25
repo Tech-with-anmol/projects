@@ -14,7 +14,7 @@
  **3. Changing prefix (Optional) -** The prefix of Bot is `s!` by default. But you can change it using `s!setpre`
 
 ## &#8627; Erros
-In case you got a temporary fix to an issue but you know many others will face it then you can create a new issue on [Github Issues](https://github.com/PGamerXstudio/blacksheep/issues/new).     
+In case you got a temporary fix to an issue but you know many others will face it then you can create a new issue on [Github Issues](https://github.com/pgamerxdev/projects/issues/new).     
 **Note : Github Issues will take time to be answered**
 
 ## &#8627; Commands list
@@ -46,9 +46,9 @@ In case you got a temporary fix to an issue but you know many others will face i
 ## &#8627; Supporters
 
 #### &#8627; Stargazers 
-[![People who starred](https://reporoster.com/stars/pgamerxstudio/projects)](https://github.com/pgamerxstudio/projects/stargazers)      
+[![People who starred](https://reporoster.com/stars/pgamerxdev/projects)](https://github.com/pgamerxdev/projects/stargazers)      
 #### &#8627; Forkers 
-[![People who Forked](https://reporoster.com/forks/pgamerxstudio/projects)](https://github.com/pgamerxstudio/projects/)     
+[![People who Forked](https://reporoster.com/forks/pgamerxdev/projects)](https://github.com/pgamerxdev/projects/)     
 #### &#8627; Donate.    
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U438GWF)   
 <br />     
