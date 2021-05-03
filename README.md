@@ -6,15 +6,15 @@
 # RSA
 * Random-stuff-api is an api made by [PGamerX](https://pgamerx.com).
  
-## Documentation 
-### Version 3 - Documentation 
+## &#8627; Documentation 
+#### Version 3 - Documentation 
 Documentation can be found [here](https://docs.pgamerx.com/version-3)
 
-### Version 2 - Documentation 
+#### Version 2 - Documentation 
 Documentation can be found [here](https://api-info.pgamerx.com/version2.html)
 
 
-## Important Links
+## &#8627; Important Links
 #### Rate Limits
 Ratelimits can be found [Here](https://docs.pgamerx.com/rate-limits)
 
@@ -29,3 +29,14 @@ Get Support [Here](https://u.pgamerx.com/discord)
 
 #### Affilated Hosting
 Find the best hosting [Here](https://u.pgamerx.com/sponsor)
+
+## &#8627; Supporters
+
+#### Stargazers 
+[![People who starred](https://reporoster.com/stars/pgamerxdev/projects)](https://github.com/pgamerxdev/projects/stargazers)      
+#### Forkers 
+[![People who Forked](https://reporoster.com/forks/pgamerxdev/projects)](https://github.com/pgamerxdev/projects/)     
+#### Donate.    
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U438GWF)   
+<br />     
+
