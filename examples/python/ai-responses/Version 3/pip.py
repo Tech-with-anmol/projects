@@ -3,7 +3,6 @@ import asyncio
 import urllib.parse
 message = "Hello!"
 encoded = urllib.parse.quote(message)
-url = "https://api.pgamerx.com/v3/ai/response/"
 key = "Your API Key"
 header = {"x-api-key": key}
 type = "stable"
