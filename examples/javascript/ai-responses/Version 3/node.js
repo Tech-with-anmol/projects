@@ -1,6 +1,7 @@
 import fetch from "node-fetch"
-
-fetch(`https://api.pgamerx.com/joke/any`, {
+let message = "Some message"
+let encoded = encodeURIComponent(message)
+fetch(`https://api.pgamerx.com/ai/response?message=${encoded}&type=stable`, {
         method: 'GET',
         headers: { 'x-api-key': 'your-api-key' },
     })
