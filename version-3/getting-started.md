@@ -11,7 +11,6 @@ description: Get started with RSA Version 3
 * [randomstuff.py ](https://pypi.org/project/randomstuff.py/)\(An easy-to-use Python wrapper with full customisation\)
 * [random-stuff-api](https://npmjs.com/random-stuff-api/) \(An easy-to-use Javascript wrapper\)
 * [RSAP](https://pypi.org/project/rsap/) \(A Powerful Python wrapper with extreme customisation\)
-* More soon......
 
 ## Examples
 
