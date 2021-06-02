@@ -18,3 +18,12 @@ The first two use same technology, it's just that you can use backup server if p
 
 In Future updates of Version 4, you will be able to filter jokes using different kinds of flags, add a joke, find a joke using a special ID and much more! 
 
+## Wrappers
+
+### Wrappers \(Made by our lovely community\)
+
+* [randomstuff.py ](https://pypi.org/project/randomstuff.py/)\(An easy-to-use Python wrapper with full customisation\)
+* [random-stuff-api](https://npmjs.com/random-stuff-api/) \(An easy-to-use Javascript wrapper\)
+* [RSAP](https://pypi.org/project/rsap/) \(A Powerful Python wrapper with extreme customisation\)
+* * More coming soon.......
+
