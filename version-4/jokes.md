@@ -4,7 +4,7 @@ description: Get Jokes from the API
 
 # Jokes
 
-{% api-method method="get" host="https://api.pgamerx.com" path="/v4/joke/:type" %}
+{% api-method method="get" host="https://api.pgamerx.com" path="/v4/joke" %}
 {% api-method-summary %}
 Get Jokes
 {% endapi-method-summary %}
