@@ -4,7 +4,7 @@ description: Get Images from the API
 
 # Images
 
-{% api-method method="get" host="https://api.pgamerx.com" path="/v4/image/" %}
+{% api-method method="get" host="https://api.pgamerx.com" path="/v4/image" %}
 {% api-method-summary %}
 Get Image Based Response
 {% endapi-method-summary %}
