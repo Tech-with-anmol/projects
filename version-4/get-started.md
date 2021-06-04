@@ -27,5 +27,8 @@ In Future updates of Version 4, you will be able to filter jokes using different
 * [RSAP](https://pypi.org/project/rsap/) \(A Powerful **Python** wrapper with extreme customisation\)
 * [PRSAW](https://pypi.org/project/prsaw) \(An Easy-to-use **Python** wrapper\)
 * [PRSAW2](https://pypi.org/project/prsaw2) \(A Customisable **Python** Wrapper\)
+* [pywRSA](https://pypi.org/project/pywrsa) **\(**A Fast **Python** wrapper**\)**
 * More coming soon.......
+
+
 
