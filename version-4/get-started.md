@@ -25,5 +25,6 @@ In Future updates of Version 4, you will be able to filter jokes using different
 * [randomstuff.py ](https://pypi.org/project/randomstuff.py/)\(An easy-to-use Python wrapper with full customisation\)
 * [random-stuff-api](https://npmjs.com/random-stuff-api/) \(An easy-to-use Javascript wrapper\)
 * [RSAP](https://pypi.org/project/rsap/) \(A Powerful Python wrapper with extreme customisation\)
-* * More coming soon.......
+* [PRSAW](https://pypi.org/project/prsaw) \(An Easy-to-use Python wrapper\)
+* More coming soon.......
 
