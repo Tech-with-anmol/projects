@@ -4,7 +4,7 @@ description: Get your favourite Waifu using RSA (SFW)
 
 # Anime/Waifu
 
-{% api-method method="get" host="https://api.pgamerx.com" path="/v4/:plan/:type" %}
+{% api-method method="get" host="https://api.pgamerx.com" path="/v4/:plan/waifu/:type" %}
 {% api-method-summary %}
 Get Waifu
 {% endapi-method-summary %}
