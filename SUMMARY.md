@@ -14,6 +14,7 @@
 ## Premium
 
 * [AI Response](premium/ai-response.md)
+* [Anime/Waifu](premium/anime-waifu.md)
 
 ## Important Links
 
