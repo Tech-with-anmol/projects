@@ -5,7 +5,6 @@
 3. `spooky`
 4. `pun`     
 
-
 ## Images 
 
 1. `aww`            
@@ -18,3 +17,11 @@
 8. `art` 
 9. `harrypottermemes`                  
 10. `facepalm`  
+
+## Waifu 
+1. `waifu`
+2. `neko`
+3. `shinobu`
+4. `megumin`
+5. `bully`
+6. `cuddle`
