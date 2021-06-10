@@ -33,7 +33,7 @@
 4. `panda`
 5. `redpanda`
 6. `koala`
-7.`fox`
-8.`whale`
+7. `fox`
+8. `whale`
 9. `kangaroo`
 10. `bunny`
