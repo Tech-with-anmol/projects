@@ -4,7 +4,7 @@ description: Get your favourite Waifu using RSA (SFW)
 
 # Anime/Waifu
 
-{% api-method method="get" host="https://api.pgamerx.com" path="/v4/:plan/waifu/:type" %}
+{% api-method method="get" host="https://api.pgamerx.com" path="/v4/:plan/waifu" %}
 {% api-method-summary %}
 Get Waifu
 {% endapi-method-summary %}
@@ -16,10 +16,6 @@ This endpoint allows you to get WAIFU pics \(SFW\)
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="type" type="string" required=true %}
-What type of Waifu you want, types available on u.pgamerx.com/types
-{% endapi-method-parameter %}
-
 {% api-method-parameter name="plan" type="string" required=true %}
 What plan have you purchased.
 {% endapi-method-parameter %}
@@ -30,6 +26,12 @@ What plan have you purchased.
 Your API key
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
+
+{% api-method-query-parameters %}
+{% api-method-parameter name="type" type="string" required=true %}
+What type of waifu you want. Types mentioned at u.pgamerx.com/types
+{% endapi-method-parameter %}
+{% endapi-method-query-parameters %}
 {% endapi-method-request %}
 
 {% api-method-response %}
