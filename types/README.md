@@ -26,7 +26,7 @@
 5. `bully`
 6. `cuddle`
 
-## Animal Facts
+## Animal Facts (NOT FUNCTIONAL YET)
 1. `cat`
 2. `dog`
 3. `bird`
