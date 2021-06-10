@@ -25,3 +25,15 @@
 4. `megumin`
 5. `bully`
 6. `cuddle`
+
+## Animal Facts
+1. `cat`
+2. `dog`
+3. `bird`
+4. `panda`
+5. `redpanda`
+6. `koala`
+7.`fox`
+8.`whale`
+9. `kangaroo`
+10. `bunny`
