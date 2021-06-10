@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/EomM4ty.png" width="200" height="200" />
+<img src="https://api-info.pgamerx.com/assets/images/unnamed-612x612.jpg" width="200" height="200" />
 </p>
 
 
@@ -7,11 +7,11 @@
 * Random-stuff-api is an api made by [PGamerX](https://pgamerx.com).
  
 ## &#8627; Documentation 
-#### Version 3 - Documentation 
-Documentation can be found [here](https://docs.pgamerx.com/version-3)
+#### Version 4 - Documentation 
+Documentation can be found [here](https://docs.pgamerx.com/version-4)
 
-#### Version 2 - Documentation 
-Documentation can be found [here](https://api-info.pgamerx.com/version2.html)
+#### Version 3 - Documentation 
+Documentation can be found [here](https://docs.pgamerx.com/v/v3/)
 
 
 ## &#8627; Important Links
