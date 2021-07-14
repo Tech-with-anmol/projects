@@ -4,6 +4,20 @@ description: All Information about new Updates
 
 # Changelog
 
+## **08/6/2021 - Version 4.0 \(MAJOR\)**
+
+#### New "Server" option!
+
+Yep, you heard it right, there are now 3 servers you can choose from to get AI reply.   
+First is `Primary`   
+Second is `backup`  
+Third is `unstable`   
+The first two use same technology, it's just that you can use backup server if primary is down and vice verse. Third server is different
+
+#### Did someone say FLAGS?!?
+
+In Future updates of Version 4, you will be able to filter jokes using different kinds of flags, add a joke, find a joke using a special ID and much more! 
+
 ## **08/5/2021  -   VERSION 3.10 \(MINOR\)** 
 
 ### What's new?
