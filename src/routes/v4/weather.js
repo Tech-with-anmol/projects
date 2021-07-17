@@ -31,7 +31,9 @@ const normal_minute = rateLimit({
   });
 
 router.get("/", normal_daily , normal_minute , async(req,res,next) => {
+  try{
     let query = req.query.city
+    if(!query) return res.json([{error: true , message: "City Missing "}])
   let api_key = req.get("x-api-key")
   if(!api_key){
     res.sendStatus(401).send("API Key is missing! Kindly get one at api.pgamerx.com/register")
@@ -50,8 +52,10 @@ const list = await keys.findOne({
     if(error) res.json([{error: true, message: error}])
     if (result === undefined || result.length === 0){
         res.json([{error: true, message: "Invalid City"}])}
-        return result
+        res.send(result)
   })
-
+}catch(err){
+  console.log(err)
+}
 })
 module.exports = router
