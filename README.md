@@ -1,38 +1,30 @@
 ---
-description: Welcome to home page of Random Stuff api
+description: >-
+  This page will guide you about main changes in Version5 and how you can shift
+  from Version4 to Version5
 ---
 
-# Random stuff api
+# Shifting To V5
 
-## OwO what's this?
+## Important Information
 
-Random Stuff api is an api developed by [PGamerX](https://pgamerx.com). This api can do various things including but not limited to AI, Jokes, memes, dog/cat images and etc
+This is the last Version of Random Stuff Api and after this no new Version shall be released.
 
-## UwU is it free?
+## Shifting to Version5 From Version4
 
-Yes, This api is free as long as you don't cross the limits. You can find paid pricing at [Rate-limits Page](rate-limits.md)
+### Basic Changes
 
-{% hint style="info" %}
-If you have a famous project, then you can contact [PGamerX](https://u.pgamerx.com/discord) and ask to partner with the api
-{% endhint %}
+Base URL - ~~**`api.pgamerx.com/v4/`**~~  **-----&gt; `api.pgamerx.com/v5/`**
 
-## How can I use this?
+Servers - ****~~**`primary`**~~ **,** ~~**`secondary`**~~ **,** ~~**`unstable`**~~  **-----&gt;  `main` , `backup`**
 
-You can use this easily just by making a HTTP request. Here is an example of how to do this in Javascript 
+Authorisation - ~~**using `x-api-key` in the header**~~ **. -----&gt; using `Authorization` in the header**
 
-```text
-const fetch = require("node-fetch")
-fetch('https://api.pgamerx.com/v3/ai/response?message=encodeURIComponent("Hello")&type=stable', {
-        method: 'get',
-        headers: { 'x-api-key': 'your-api-key' },
-    })
-    .then(res => res.json())
-    .then(json => console.log(json));
-```
+### AI Response
 
-{% hint style="info" %}
-Get an API Key by registering at [Here](https://api.pgamerx.com/register)
-{% endhint %}
+{% page-ref page="endpoints/ai.md" %}
+
+
 
 
 
