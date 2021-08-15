@@ -12,7 +12,7 @@ Get AI-Based Response
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-headers %}
-{% api-method-parameter name="x-api-key" type="string" required=true %}
+{% api-method-parameter name="Authorization" type="string" required=true %}
 Your api key derived from api.pgamerx.com/register
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
