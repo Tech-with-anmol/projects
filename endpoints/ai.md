@@ -27,11 +27,11 @@ The message you want bot to respond to
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Done! Success 
 {% endapi-method-response-example-description %}
 
 ```
-
+{response: "The response", server: "main/backup", uid: 69}
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
