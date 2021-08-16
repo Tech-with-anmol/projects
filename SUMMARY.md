@@ -4,8 +4,9 @@
 
 ## Endpoints
 
-* [GET /ai/](endpoints/ai.md)
-* [GET /joke/](endpoints/joke.md)
+* [GET /ai](endpoints/ai.md)
+* [GET /joke](endpoints/joke.md)
+* [GET /weather](endpoints/weather.md)
 
 ## Important Links
 

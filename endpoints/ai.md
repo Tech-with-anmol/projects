@@ -4,7 +4,7 @@ description: >-
   Premium Plan
 ---
 
-# GET /ai/
+# GET /ai
 
 {% api-method method="get" host="https://api.pgamerx.com" path="/v5/ai" %}
 {% api-method-summary %}
