@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Shifting To V5](README.md)
+* [Getting Started with V5](README.md)
 
 ## Endpoints
 

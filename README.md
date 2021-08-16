@@ -4,7 +4,7 @@ description: >-
   from Version4 to Version5
 ---
 
-# Shifting To V5
+# Getting Started with V5
 
 ## Important Information
 
@@ -23,6 +23,18 @@ Authorisation - ~~**using `x-api-key` in the header**~~ **. -----&gt; using `Aut
 ### AI Response
 
 {% page-ref page="endpoints/ai.md" %}
+
+### Joke
+
+{% page-ref page="endpoints/joke.md" %}
+
+### Weather
+
+{% page-ref page="endpoints/weather.md" %}
+
+
+
+
 
 
 
