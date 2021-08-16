@@ -6,10 +6,6 @@ description: >-
 
 # Getting Started with V5
 
-## Important Information
-
-This is the last Version of Random Stuff Api and after this no new Version shall be released.
-
 ## Shifting to Version5 From Version4
 
 ### Basic Changes
