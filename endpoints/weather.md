@@ -198,7 +198,7 @@ Invalid City or Missing City
 {% endapi-method-response-example-description %}
 
 ```
-City is missing/invalid
+Invalid/Missing city
 ```
 {% endapi-method-response-example %}
 
