@@ -1,3 +1,9 @@
+---
+description: >-
+  Get AI based response using Random-Stuff-API. Included in your Free as well as
+  Premium Plan
+---
+
 # GET /ai/
 
 {% api-method method="get" host="https://api.pgamerx.com" path="/v5/ai" %}
@@ -32,6 +38,36 @@ Done! Success
 
 ```
 {response: "The response", server: "main/backup", uid: 69}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+You did not provide Message or Server
+{% endapi-method-response-example-description %}
+
+```text
+Message/Server is missing
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=401 %}
+{% api-method-response-example-description %}
+Your API key is missing
+{% endapi-method-response-example-description %}
+
+```
+API Key is missing! Kindly get one at api.pgamerx.com/register
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=403 %}
+{% api-method-response-example-description %}
+API key is incorrect
+{% endapi-method-response-example-description %}
+
+```
+Forbidden! API Key is incorrect, kindly recheck
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}

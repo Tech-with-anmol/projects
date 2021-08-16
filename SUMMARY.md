@@ -5,6 +5,7 @@
 ## Endpoints
 
 * [GET /ai/](endpoints/ai.md)
+* [GET /joke/](endpoints/joke.md)
 
 ## Important Links
 
