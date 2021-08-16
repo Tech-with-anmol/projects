@@ -64,13 +64,12 @@ Type is missing or type is incorrect or Flags are incorrect\(if provided\)
 No Type Provided
 Invalid Type Provided
 Invalid Flags Provided
-
 ```
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=401 %}
 {% api-method-response-example-description %}
-
+API key is missing
 {% endapi-method-response-example-description %}
 
 ```
