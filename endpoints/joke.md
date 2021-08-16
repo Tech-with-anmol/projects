@@ -1,3 +1,7 @@
+---
+description: Get Different type of jokes using Random Stuff Api
+---
+
 # GET /joke
 
 {% api-method method="get" host="https://api.pgamerx.com" path="/v5/joke" %}

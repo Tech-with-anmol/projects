@@ -7,6 +7,7 @@
 * [GET /ai](endpoints/ai.md)
 * [GET /joke](endpoints/joke.md)
 * [GET /weather](endpoints/weather.md)
+* [GET /image](endpoints/get-image.md)
 
 ## Important Links
 

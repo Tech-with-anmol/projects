@@ -1,3 +1,7 @@
+---
+description: Get Weather details about a specific City
+---
+
 # GET /weather
 
 {% api-method method="get" host="https://api.pgamerx.com" path="/v5/weather" %}
