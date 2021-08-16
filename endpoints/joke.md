@@ -91,7 +91,11 @@ Forbidden! API Key is incorrect, kindly recheck
 {% endapi-method-spec %}
 {% endapi-method %}
 
-Available Types = `["any", "dark", "pun", "spooky", "christmas", "Programming", "misc"]`
+### Available Types of jokes are 
 
-Available Flags for Blacklisting - `["nsfw","religious","political","racist","sexist","explicit"]`
+`["any", "dark", "pun", "spooky", "christmas", "Programming", "misc"]`
+
+### Available Flags for Blacklisting are -
+
+`["nsfw","religious","political","racist","sexist","explicit"]`
 
