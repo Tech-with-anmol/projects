@@ -74,7 +74,7 @@ Forbidden! API Key is incorrect, kindly recheck
 {% endapi-method-spec %}
 {% endapi-method %}
 
-Optional Parameters For Customisation - 
+Optional Query Parameters For Customisation - 
 
 | Paremeter | Type | Default Value |
 | :--- | :--- | :--- |
