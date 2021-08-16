@@ -4,12 +4,17 @@
 * [Changelog](changelog.md)
 * [Rate Limits](rate-limits.md)
 
-## Version 3 \(LATEST\) <a id="version-3"></a>
+## Version 4 \(BETA\) <a id="version-4"></a>
 
-* [Getting Started](version-3/getting-started.md)
-* [Get Images](version-3/get-images.md)
-* [Get AI response](version-3/get-ai-response.md)
-* [Get Jokes](version-3/get-jokes.md)
+* [Welcome to Version 4](version-4/get-started.md)
+* [Images](version-4/images.md)
+* [AI Response](version-4/ai-response.md)
+* [Jokes](version-4/jokes.md)
+
+## Premium
+
+* [AI Response](premium/ai-response.md)
+* [Anime/Waifu](premium/anime-waifu.md)
 
 ## Important Links
 
