@@ -14,3 +14,5 @@ description: Here are the rate limit(s) for different plans
 | **BIZ** | **`7$/MONTH`** | `17,000` | `No Limit` |
 | **MEGA** | **`10$/MONTH`** | `27,000` | `No Limit` |
 
+
+
