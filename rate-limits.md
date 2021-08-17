@@ -11,6 +11,6 @@ description: Here are the rate limit(s) for different plans
 | **FREE** | **`FREE`** | `2,500` | `60` |
 | **PRO** | **`2$/MONTH`** | `5,000` | `100` |
 | **ULTRA** | **`4$/MONTH`** | `10,000` | `150` |
-| **BIZ** | **`7$/MONTH`** | `15,000` | `No Limit` |
-| **MEGA** | **`10$/MONTH`** | `20,000` | `No Limit` |
+| **BIZ** | **`7$/MONTH`** | `17,000` | `No Limit` |
+| **MEGA** | **`10$/MONTH`** | `27,000` | `No Limit` |
 
