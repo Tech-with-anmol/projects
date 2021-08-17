@@ -24,6 +24,10 @@ Your api key derived from api.pgamerx.com/register
 {% endapi-method-headers %}
 
 {% api-method-query-parameters %}
+{% api-method-parameter name="server" type="string" required=true %}
+Which server you want to get response from. Can be either `main` or `backup`
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="message" type="string" required=true %}
 The message you want bot to respond to 
 {% endapi-method-parameter %}
