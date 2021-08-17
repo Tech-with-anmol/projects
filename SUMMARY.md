@@ -9,6 +9,10 @@
 * [GET /weather](endpoints/weather.md)
 * [GET /covid](endpoints/get-image.md)
 
+## PREMIUM
+
+* [Why should I get premium?](premium/why-should-i-get-premium.md)
+
 ## Important Links
 
 * [Github Repo\(Star Please\)](https://github.com/pgamerxdev/projects/tree/api)
