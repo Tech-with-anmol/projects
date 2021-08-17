@@ -24,3 +24,9 @@ description: This page will explain to you the benefits of getting premium versi
 * [x] Early-Access to new features
 * [x] Increased Requests Quota  
 
+## What are you waiting For?
+
+{% hint style="info" %}
+Get Premium Version at [This Site](https://u.pgamerx.com/premium)
+{% endhint %}
+
