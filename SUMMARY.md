@@ -13,6 +13,7 @@
 
 * [Why should I get premium?](premium/why-should-i-get-premium.md)
 * [GET /ai](premium/ai.md)
+* [GET /waifu](premium/waifu.md)
 
 ## Important Links
 

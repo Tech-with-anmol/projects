@@ -77,7 +77,6 @@ API key incorrect/Plan incorrect
 ```
 Premium API Key is incorrect, kindly recheck
 The Premium API Key is not valid for plan
-
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
