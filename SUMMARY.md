@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started with V5](README.md)
+* [Rate limits](rate-limits.md)
 
 ## Endpoints
 
