@@ -41,10 +41,42 @@ What server you want to get response from? `main` or `backup`
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
+Done! Success
+{% endapi-method-response-example-description %}
 
+```text
+{response: "The response", server: "main/backup", uid: 69}
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=400 %}
+{% api-method-response-example-description %}
+Message/Server is missing
 {% endapi-method-response-example-description %}
 
 ```
+Message/Server is missing
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=401 %}
+{% api-method-response-example-description %}
+API key is missing
+{% endapi-method-response-example-description %}
+
+```
+Premium API Key is missing! Kindly get one at api.pgamerx.com/register
+```
+{% endapi-method-response-example %}
+
+{% api-method-response-example httpCode=403 %}
+{% api-method-response-example-description %}
+API key incorrect/Plan incorrect
+{% endapi-method-response-example-description %}
+
+```
+Premium API Key is incorrect, kindly recheck
+The Premium API Key is not valid for plan
 
 ```
 {% endapi-method-response-example %}
