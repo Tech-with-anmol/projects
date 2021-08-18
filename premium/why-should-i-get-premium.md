@@ -16,10 +16,10 @@ description: This page will explain to you the benefits of getting premium versi
 ### Premium Plan
 
 * [x] Everything in the **FREE Plan**
+* [x] Access to `/waifu` endpoint
+* [x] Access to `/facts` endpoint
 * [x] Personal Contact with the Developer
 * [x] Patent access
-* [x] Access to `/waifu` endpoint
-* [x] Access to `/satellite` endpoint
 * [x] Special Discord Server role
 * [x] Early-Access to new features
 * [x] Increased Requests Quota  
