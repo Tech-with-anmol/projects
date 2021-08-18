@@ -10,7 +10,7 @@ description: >-
 
 ### From v4 -- v5
 
-Base URL - ~~**`api.pgamerx.com/v4/`**~~  **-----&gt; `api.pgamerx.com/v5/`**
+Base URL - ~~**`api.pgamerx.com/v4`**~~  **-----&gt; `api.pgamerx.com/v5`**
 
 Servers - ****~~**`primary`**~~ **,** ~~**`secondary`**~~ **,** ~~**`unstable`**~~  **-----&gt;  `main` , `backup`**
 
@@ -18,7 +18,7 @@ Authorisation - ~~**using `x-api-key` in the header**~~ **. -----&gt; using `Aut
 
 ### From **v3 -- v5**
 
-Base URL - ~~**`api.pgamerx.com/v3/`**~~  **-----&gt; `api.pgamerx.com/v3/`**
+Base URL - ~~**`api.pgamerx.com/v3`**~~  **-----&gt; `api.pgamerx.com/v5`**
 
 Servers - ****~~**`stable`**~~ **,** ~~**`unstable`**~~  **-----&gt;  `main` , `backup`**
 
