@@ -12,6 +12,7 @@ description: This page will explain to you the benefits of getting premium versi
 * [x] Access to `/joke` endpoint
 * [x] Access to `/weather` endpoint
 * [x] Access to `/covid` endpoint
+* [x] Access to `/image` endpoint
 
 ### Premium Plan
 

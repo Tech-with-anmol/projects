@@ -10,6 +10,7 @@
 * [GET /joke](endpoints/joke.md)
 * [GET /weather](endpoints/weather.md)
 * [GET /covid](endpoints/get-image.md)
+* [GET /image](endpoints/get-image-1.md)
 
 ## PREMIUM
 

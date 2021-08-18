@@ -44,6 +44,10 @@ To know how to get AI response, visit [_**`GET /weather`**_](endpoints/weather.m
 {% tab title="COVID-19" %}
 To know how to info about COVID-19 , visit GET [_**`/covid`**_](endpoints/get-image.md)_**\`\`**_
 {% endtab %}
+
+{% tab title="Images" %}
+To know how to get images, visit [_**`GET /joke`**_](endpoints/get-image-1.md)_**\`\`**_
+{% endtab %}
 {% endtabs %}
 
 ### Premium Plan
