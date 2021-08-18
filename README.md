@@ -1,32 +1,23 @@
----
-description: >-
-  This page will guide you about main changes in Version5 and how you can shift
-  from Version4 to Version5
----
+# Welcome to v5
 
-# Getting Started with V5
+## Version 5 is finally here 🥳
 
-## Shifting to Version5 From Version4
+The long-long awaited **v5** is finally here!  
+**But, Version5** is **not alone!** It brings with it - 
 
-### Basic Changes
+* [x] Better response\(s\)
+* [x] Better error handler\(s\)
+* [x] Better Response time
+* [x] New Endpoints!
+* [x] Better-managed Rate-limiting system
+* [x] New Endpoints for Premium Plan\(s\)
+* [x] much more exciting things coming soon..
 
-Base URL - ~~**`api.pgamerx.com/v4/`**~~  **-----&gt; `api.pgamerx.com/v5/`**
+## Get Started with Version 5 
 
-Servers - ****~~**`primary`**~~ **,** ~~**`secondary`**~~ **,** ~~**`unstable`**~~  **-----&gt;  `main` , `backup`**
+{% page-ref page="getting-started.md" %}
 
-Authorisation - ~~**using `x-api-key` in the header**~~ **. -----&gt; using `Authorization` in the header**
 
-### AI Response
-
-{% page-ref page="endpoints/ai.md" %}
-
-### Joke
-
-{% page-ref page="endpoints/joke.md" %}
-
-### Weather
-
-{% page-ref page="endpoints/weather.md" %}
 
 
 

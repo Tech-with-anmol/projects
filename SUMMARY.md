@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Getting Started with V5](README.md)
+* [Welcome to v5](README.md)
+* [Getting Started with v5](getting-started.md)
 * [Rate limits](rate-limits.md)
 
 ## Endpoints
@@ -19,7 +20,8 @@
 
 ## Important Links
 
-* [Github Repo\(Star Please\)](https://github.com/pgamerxdev/projects/tree/api)
-* [Register](https://api.pgamerx.com/register)
-* [Support](https://u.pgamerx.com/discord)
+* [Discord Server \(Support\)](https://u.pgamerx.com/discord)
+* [Github Repo \(Star Please\)](https://github.com/pgamerxdev/projects/tree/api)
+* [Register \(Get an API key\)](https://api.pgamerx.com/register)
+* [Premium \(Purchase Premium\)](https://u.pgamerx.com/premium)
 
