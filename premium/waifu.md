@@ -6,7 +6,7 @@ description: Get Waifu pictures (Safe for work). Included in your premium plan o
 
 {% api-method method="get" host="https://api.pgamerx.com" path="/v5/premium/:plan/waifu" %}
 {% api-method-summary %}
-Get Waifu Pictures
+Waifu Pictures
 {% endapi-method-summary %}
 
 {% api-method-description %}

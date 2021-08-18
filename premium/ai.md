@@ -6,7 +6,7 @@ description: Get AI Response with increased requests. Included in your premium p
 
 {% api-method method="get" host="https://api.pgamerx.com" path="/v5/premium/:plan/ai" %}
 {% api-method-summary %}
-Get AI Response
+AI Response
 {% endapi-method-summary %}
 
 {% api-method-description %}

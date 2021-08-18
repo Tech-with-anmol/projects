@@ -8,7 +8,7 @@ description: >-
 
 {% api-method method="get" host="https://api.pgamerx.com" path="/v5/premium/:plan/facts" %}
 {% api-method-summary %}
-
+Facts
 {% endapi-method-summary %}
 
 {% api-method-description %}
