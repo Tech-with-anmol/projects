@@ -22,7 +22,7 @@ What plan have you purchased?
 {% endapi-method-path-parameters %}
 
 {% api-method-headers %}
-{% api-method-parameter name="Authroization" type="string" required=true %}
+{% api-method-parameter name="Authorization" type="string" required=true %}
 Your PREMIUM Api key
 {% endapi-method-parameter %}
 {% endapi-method-headers %}
