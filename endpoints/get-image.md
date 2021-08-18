@@ -1,5 +1,7 @@
 ---
-description: Get Information about COVID-19 Cases of the whole world or a specific country
+description: >-
+  Get Information about COVID-19 Cases of the whole world or a specific country.
+  Included in your Free as well as Premium Plan
 ---
 
 # GET /covid

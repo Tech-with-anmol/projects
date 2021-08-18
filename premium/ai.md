@@ -1,5 +1,5 @@
 ---
-description: Get AI Response with increased requests
+description: Get AI Response with increased requests. Included in your premium plan only
 ---
 
 # GET /ai

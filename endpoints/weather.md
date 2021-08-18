@@ -1,5 +1,7 @@
 ---
-description: Get Weather details about a specific City
+description: >-
+  Get Weather details about a specific City. Included in your Free as well as
+  Premium Plan
 ---
 
 # GET /weather

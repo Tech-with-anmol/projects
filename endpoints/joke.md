@@ -1,5 +1,7 @@
 ---
-description: Get Different type of jokes using Random Stuff Api
+description: >-
+  Get Different type of jokes using Random Stuff Api. Included in your Free as
+  well as Premium Plan
 ---
 
 # GET /joke
