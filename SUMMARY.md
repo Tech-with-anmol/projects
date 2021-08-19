@@ -3,6 +3,7 @@
 * [Welcome to v5](README.md)
 * [Getting Started with v5](getting-started.md)
 * [Rate limits](rate-limits.md)
+* [Wrappers](wrappers.md)
 
 ## Endpoints
 
