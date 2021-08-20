@@ -1,5 +1,5 @@
 ---
-description: 'The long-long awaited v5 is finally here!But, Version5 is not alone!'
+description: 'The long-long awaited v5 is finally here! But, it is not alone!'
 ---
 
 # Welcome to v5
