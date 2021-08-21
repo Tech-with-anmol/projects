@@ -11,7 +11,7 @@
   * [Customisation](endpoints/ai/customisation.md)
 * [GET /joke](endpoints/joke/README.md)
   * [Types of Jokes](endpoints/joke/types.md)
-  * [Blacklisting Flags](endpoints/joke/blacklisting-flags.md)
+  * [Blacklisting Flags](endpoints/joke/flags.md)
 * [GET /weather](endpoints/weather.md)
 * [GET /covid](endpoints/get-image.md)
 * [GET /image](endpoints/get-image-1.md)

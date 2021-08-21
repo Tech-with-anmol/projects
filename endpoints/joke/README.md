@@ -98,9 +98,9 @@ Forbidden! API Key is incorrect, kindly recheck
 
 ### Available Types of jokes are 
 
-`["any", "dark", "pun", "spooky", "christmas", "Programming", "misc"]`
+{% page-ref page="types.md" %}
 
 ### Available Flags for Blacklisting are -
 
-`["nsfw","religious","political","racist","sexist","explicit"]`
+{% page-ref page="flags.md" %}
 
