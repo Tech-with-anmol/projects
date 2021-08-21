@@ -19,7 +19,8 @@
 ## PREMIUM
 
 * [Why should I get premium?](premium/why-should-i-get-premium.md)
-* [GET /ai](premium/ai.md)
+* [GET /ai](premium/ai/README.md)
+  * [Customisation](premium/ai/customisation.md)
 * [GET /facts](premium/facts.md)
 * [GET /waifu](premium/waifu.md)
 

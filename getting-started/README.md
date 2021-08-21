@@ -54,7 +54,7 @@ To know how to get images, visit [_**`GET /joke`**_](../endpoints/get-image-1.md
 
 {% tabs %}
 {% tab title="AI Response" %}
-To know how to get AI response, visit [_**`GET /ai`**_](../premium/ai.md)_**\`\`**_
+To know how to get AI response, visit [_**`GET /ai`**_](../premium/ai/)_**\`\`**_
 {% endtab %}
 
 {% tab title="Fact\(s\)" %}
@@ -68,9 +68,7 @@ To know how to get Waifu pics, visit [_**`GET /waifu`**_](../premium/waifu.md)_*
 
 ### Still need Help?
 
-Join our [**`Discord Server`** ](https://u.pgamerx.com/discord)and visit either of the following threads to get help
-
-![First thread is for help in shifting to v5 from v4, while the second one is for help in shifting to v5 from v3](../.gitbook/assets/screenshot-2021-08-18-at-10.21.39-am.png)
+Join our [**`Discord Server`** ](https://u.pgamerx.com/discord)and visit support channel\(s\) to get more support! We are always happy to help
 
 
 
