@@ -1,14 +1,17 @@
 # Table of contents
 
 * [Welcome to v5](README.md)
-* [Getting Started with v5](getting-started.md)
-* [Rate limits](rate-limits.md)
-* [Wrappers](wrappers.md)
+* [Getting Started 🖥](getting-started/README.md)
+  * [Wrappers](getting-started/wrappers.md)
+  * [Rate limits](getting-started/rate-limits.md)
 
 ## Endpoints
 
-* [GET /ai](endpoints/ai.md)
-* [GET /joke](endpoints/joke.md)
+* [GET /ai](endpoints/ai/README.md)
+  * [Customisation](endpoints/ai/customisation.md)
+* [GET /joke](endpoints/joke/README.md)
+  * [Types of Jokes](endpoints/joke/types.md)
+  * [Blacklisting Flags](endpoints/joke/blacklisting-flags.md)
 * [GET /weather](endpoints/weather.md)
 * [GET /covid](endpoints/get-image.md)
 * [GET /image](endpoints/get-image-1.md)

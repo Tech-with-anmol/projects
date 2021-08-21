@@ -19,7 +19,7 @@ The long-long awaited **v5** is finally here!
 
 ## Get Started with Version 5 
 
-{% page-ref page="getting-started.md" %}
+{% page-ref page="getting-started/" %}
 
 
 
