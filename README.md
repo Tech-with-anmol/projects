@@ -2,7 +2,7 @@
 description: 'The long-long awaited v5 is finally here! But, it is not alone!'
 ---
 
-# Welcome to v5
+# Welcome to v5 🥳
 
 ## Version 5 is finally here 🥳
 

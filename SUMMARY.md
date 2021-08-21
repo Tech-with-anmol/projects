@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome to v5](README.md)
-* [Getting Started 🖥](getting-started/README.md)
+* [Welcome to v5 🥳](README.md)
+* [Getting Started](getting-started/README.md)
   * [Wrappers](getting-started/wrappers.md)
   * [Rate limits](getting-started/rate-limits.md)
 

@@ -4,7 +4,7 @@ description: >-
   to Version5 from Version4 or Version3
 ---
 
-# Getting Started 🖥
+# Getting Started
 
 ## Shifting To Version5 
 
