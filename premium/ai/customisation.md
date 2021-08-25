@@ -25,3 +25,4 @@ description: Customise AI in your own way
 | bot\_favorite\_artist | String | Eminem |
 | bot\_favorite\_actress | String | Emma Watson |
 | bot\_favorite\_actor | String | Jim Carrey |
+

@@ -11,6 +11,11 @@ The long-long awaited **v5** is finally here!
 
 * [x] Better response\(s\)
 * [x] Better error handler\(s\)
+* [x] New `/covid` Endpoint
+* [x] New `/weather` Endpoint
+* [x] New `/facts` Endpoint \(Premium-Only\)
+* [x] Full customisation in `/ai` Endpoint
+* [x] Filterations in `/joke` endpoint
 * [x] Better Response time
 * [x] New Endpoints!
 * [x] Better-managed Rate-limiting system
