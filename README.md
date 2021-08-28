@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://api-info.pgamerx.com/assets/images/unnamed-612x612.jpg" width="200" height="200" />
+<img src="https://api-info.pgamerx.com/assets/images/rsa-new-logo-bg-gone.png" width="200" height="200" />
 </p>
 
 
@@ -7,16 +7,16 @@
 * Random-stuff-api is an api made by [PGamerX](https://pgamerx.com).
  
 ## &#8627; Documentation 
-#### Version 4 - Documentation 
-Documentation can be found [here](https://docs.pgamerx.com/version-4)
+#### Version 5 - Documentation 
+Documentation can be found [here](https://docs.pgamerx.com/)
 
-#### Version 3 - Documentation 
-Documentation can be found [here](https://docs.pgamerx.com/v/v3/)
+#### Version 4 - Documentation 
+Documentation can be found [here](https://docs.pgamerx.com/v/v4/)
 
 
 ## &#8627; Important Links
 #### Rate Limits
-Ratelimits can be found [Here](https://docs.pgamerx.com/rate-limits)
+Ratelimits can be found [Here](https://docs.pgamerx.com/getting-started/rate-limits)
 
 #### Register an api key
 Register an api key at [Here](https://api.pgamerx.com/register)
